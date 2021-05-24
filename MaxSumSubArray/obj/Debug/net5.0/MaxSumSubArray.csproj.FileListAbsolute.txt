@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\bin\Debug\net5.0\MaxSumSubArray.exe
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\bin\Debug\net5.0\MaxSumSubArray.deps.json
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\bin\Debug\net5.0\MaxSumSubArray.runtimeconfig.json
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\bin\Debug\net5.0\MaxSumSubArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\bin\Debug\net5.0\MaxSumSubArray.dll
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\bin\Debug\net5.0\ref\MaxSumSubArray.dll
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\bin\Debug\net5.0\MaxSumSubArray.pdb
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.AssemblyInfo.cs
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.dll
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\ref\MaxSumSubArray.dll
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.pdb
+C:\Users\user\source\repos\leetcode-practice\MaxSumSubArray\obj\Debug\net5.0\MaxSumSubArray.genruntimeconfig.cache
