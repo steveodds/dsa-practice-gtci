@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\bin\Debug\net5.0\SmallestSubArrayofGivenSum.exe
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\bin\Debug\net5.0\SmallestSubArrayofGivenSum.deps.json
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\bin\Debug\net5.0\SmallestSubArrayofGivenSum.runtimeconfig.json
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\bin\Debug\net5.0\SmallestSubArrayofGivenSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\bin\Debug\net5.0\SmallestSubArrayofGivenSum.dll
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\bin\Debug\net5.0\ref\SmallestSubArrayofGivenSum.dll
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\bin\Debug\net5.0\SmallestSubArrayofGivenSum.pdb
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.AssemblyInfo.cs
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.dll
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\ref\SmallestSubArrayofGivenSum.dll
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.pdb
+C:\Users\user\source\repos\leetcode-practice\SmallestSubArrayofGivenSum\obj\Debug\net5.0\SmallestSubArrayofGivenSum.genruntimeconfig.cache
